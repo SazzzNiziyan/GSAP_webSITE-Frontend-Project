@@ -1,1 +1,1 @@
-# GSAP_webSITE-Frontend-
+# GSAP_WEBSITE-Frontend-
